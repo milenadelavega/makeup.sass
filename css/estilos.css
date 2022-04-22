@@ -1,0 +1,67 @@
+.Marcas {
+  font-size: medium;
+  color: black;
+  text-shadow: 10px 10px 5px gray;
+  text-align: center; }
+
+h2 {
+  text-shadow: 10px 10px 5px gray; }
+
+.principal {
+  margin-bottom: 2rem; }
+
+.imagenojos {
+  max-width: 100%;
+  min-width: none;
+  height: auto; }
+
+.footer {
+  margin-top: 10%;
+  text-align: center;
+  font-size: 10px; }
+
+.frase {
+  animation: slideInLeft;
+  animation-duration: 4s;
+  text-shadow: 10px 10px 5px gray; }
+
+.container1 {
+  box-shadow: 6px 20px 10px #070707; }
+
+.textos {
+  font-size: 20px;
+  font-weight: 100; }
+
+ul {
+  list-style: none; }
+
+.Fondo {
+  background: #fadde9;
+  background: linear-gradient(90deg, #fadde9 0%, rgba(238, 17, 118, 0.490634) 100%); }
+
+.Marcas {
+  color: black; }
+
+.p {
+  color: black; }
+
+.footer {
+  background-color: #683144;
+  color: white; }
+
+.encabezado {
+  color: pink;
+  background: #2d0516;
+  background: linear-gradient(90deg, #2d0516 0%, rgba(238, 17, 133, 0.98083) 100%); }
+
+.navegador a {
+  color: white; }
+
+.p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+
+.Marcas {
+  font-family: Georgia, 'Times New Roman', Times, serif; }
+
+.textos {
+  font-family: Arial, Helvetica, sans-serif; }
